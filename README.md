@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Carlo-Sancimino
-- 👀 Interested in the art of programming, currently pursuing CS50X by Harvard.
-- 🌱 I’m currently learning C, Python, SQL, Javascript, HTML & CSS
-- 💞️ I’m looking to learn from more experienced programmers, possibly under the form of an internship.
+- 👀 Interested in web applications, started my coding journey in February 2022.
+- ✨ CS50X, CS50 with Python and Javascript.
+- 🌱 HTML & CSS, Javascript, Python, SQL. Experience with flask, diving into Django.
+- 💞️ Enthusiast to learn from more experienced programmers, possibly under the form of an internship.
 - 📫 How to reach me: carloalberto@sancimino.it
 
 <!---
